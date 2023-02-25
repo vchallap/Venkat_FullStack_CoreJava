@@ -1,0 +1,27 @@
+package in.coreJava.Methods;
+
+public class Person1 {
+
+	int personId;
+	String personName;
+	int personAge;
+
+	public static void main(String[] args) {
+
+		Person1 p1 = new Person1();
+		Person1 p2 = new Person1();
+
+		m1(p1, p2);
+
+	}
+
+	void m1(Person[]p)
+
+	static Person1 m2() {
+
+		Person1 p3 = new Person1();
+		return p3;
+
+	}
+
+}

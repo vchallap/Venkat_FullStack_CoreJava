@@ -1,0 +1,22 @@
+package in.core.java.Encapsulation;
+
+public class BankAccount {
+	
+	private long accNo=9000803;
+	private String accName="Venkatesh Challapalli";
+	private double accBalance=55000.00;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public double getBalance()
+	{
+		return this.accBalance;
+		
+	}
+	
+
+}

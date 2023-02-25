@@ -1,0 +1,19 @@
+package in.coreJava.Methods;
+
+public class Driver1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Driver1 d1=new Driver1();
+		
+		
+	}
+
+}
+
+class student1
+{
+	int id;
+	String name;
+}

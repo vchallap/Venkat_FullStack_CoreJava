@@ -1,0 +1,15 @@
+package in.core.java.Encapsulation;
+
+public class BankAccount {
+	
+	long accNo;
+	String accName;
+	double accBalance;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

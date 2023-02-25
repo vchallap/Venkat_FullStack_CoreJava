@@ -1,0 +1,29 @@
+package in.coreJava.Methods;
+
+public class Driver7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Driver7 d7=new Driver7();
+		
+		
+		
+	}
+
+	DoublePersons getPersonData(int personId)
+	{
+		DoublePersons dp1=new DoublePersons();
+		dp1.personId=101;
+		dp1.personName="Raju";
+		dp1.personAge=30;
+		DoublePersons dp2=new DoublePersons();
+		dp2.personId=102;
+		dp2.personName="Rani";
+		dp2.personAge=32;
+		
+		
+		
+	}
+	
+	
+}

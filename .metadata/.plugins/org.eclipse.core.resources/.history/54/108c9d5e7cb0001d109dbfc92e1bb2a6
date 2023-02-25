@@ -1,0 +1,18 @@
+package in.coreJava.Methods;
+
+public class Driver6 {
+
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	College getCollegeData()
+	{
+		College c= new College();
+		c.collegeId=999;
+		c.collegeName="RKCE";
+		c.collegeAdd="Vijayawada,KCL";
+		return c;
+	}
+}

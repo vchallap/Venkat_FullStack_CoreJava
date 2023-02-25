@@ -1,0 +1,36 @@
+package in.coreJava.Methods;
+
+public class University {
+	int universityId;
+	String universityName;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		University u=new University();
+		
+		u.getUniversityData(id);
+		
+		
+	}
+	
+	University getUniversityData(int id)
+	{
+		
+		University u=new University();
+		if (id==101)
+		{
+			u.universityId=101;
+			u.universityName="Oxford";
+		}
+		else if(id==102)
+		{
+			u.universityId=102;
+			u.universityName="Standford";
+		}
+		
+		
+		return null;
+		
+	}
+
+}

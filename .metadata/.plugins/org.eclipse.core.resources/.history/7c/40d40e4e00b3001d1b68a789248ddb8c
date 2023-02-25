@@ -1,0 +1,16 @@
+package in.coreJava.Constructors;
+
+public class Employee {
+	
+	int empId;
+	String empName;
+	
+	public Employee() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

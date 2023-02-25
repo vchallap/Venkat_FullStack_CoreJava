@@ -1,0 +1,16 @@
+package in.coreJava.Methods;
+
+public class Country {
+	
+	
+	int countryId;
+	String countryName;
+	String countryCaptial;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

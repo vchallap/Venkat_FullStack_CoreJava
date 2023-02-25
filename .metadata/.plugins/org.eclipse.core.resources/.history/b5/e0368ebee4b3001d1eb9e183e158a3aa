@@ -1,0 +1,22 @@
+package in.core.java.Encapsulation;
+
+public class BankAccount {
+	
+	private long accNo;
+	private String accName;
+	private double accBalance;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public double getBalance()
+	{
+		return this.accBalance;
+		
+	}
+	
+
+}

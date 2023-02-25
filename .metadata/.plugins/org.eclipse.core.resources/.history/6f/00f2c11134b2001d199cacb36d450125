@@ -1,0 +1,24 @@
+package in.coreJava.Methods;
+
+public class Country {
+	
+	//Instance variables
+	int countryId;
+	String countryName;
+	String countryCaptial;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//To access instance variables , we need a Object to be created.
+		
+		Country c=new Country();
+		c.countryId=101;
+		c.countryName="India";
+		c.countryCaptial="Delhi";
+		
+		
+	}
+
+}

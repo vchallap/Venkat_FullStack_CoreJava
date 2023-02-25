@@ -1,0 +1,11 @@
+package in.coreJava.Constructors;
+
+public class College {
+
+	public College() {
+		System.out.println("Collecge constructor");
+	}
+	
+	
+	
+}

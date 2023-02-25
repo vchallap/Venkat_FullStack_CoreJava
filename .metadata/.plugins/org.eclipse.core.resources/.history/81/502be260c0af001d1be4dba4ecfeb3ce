@@ -1,0 +1,33 @@
+package in.coreJava.Methods;
+
+public class Driver1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	
+		
+
+	}
+
+	 static void printStudentData(Student1 s) {
+		// TODO Auto-generated method stub
+		System.out.println(s.id+" "+s.name);
+	}
+
+	/*
+	static void printStudentData(int id, String name) {
+		// TODO Auto-generated method stub
+		System.out.println(id);
+		System.out.println(name);
+		
+	}
+*/
+	
+}
+
+class Student1 {
+	int id;
+	String name;
+
+}

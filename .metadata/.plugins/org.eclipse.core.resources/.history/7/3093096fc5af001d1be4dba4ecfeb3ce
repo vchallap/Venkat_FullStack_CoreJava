@@ -1,0 +1,17 @@
+package in.coreJava.Methods;
+
+public class Driver3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Driver3 d3=new Driver3();
+		d3.printProductData(p);
+	}
+	
+	void printProductData(Product p)
+	{
+		
+	}
+
+}

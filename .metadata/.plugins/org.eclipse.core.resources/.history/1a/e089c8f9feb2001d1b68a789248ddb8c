@@ -1,0 +1,26 @@
+package in.coreJava.Constructors;
+
+public class Student {
+
+	int studentId;
+	String studentName;
+	int studentAge;
+
+	public Student() {//default constructor
+
+		System.out.println("Hello");
+	}
+	
+	public Student(int i)
+	{
+		System.out.println(i);
+	}
+
+	public static void main(String[] args) {
+
+		Student s = new Student();
+		Student s1=new Student(10);
+
+	}
+
+}

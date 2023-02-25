@@ -1,0 +1,14 @@
+package in.core.java.Encapsulation;
+
+public class Person {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		BankAccount BA=new BankAccount();
+	BA.setAccBalance(20000);
+		System.out.println(BA.getAccBalance());
+		
+	}
+
+}

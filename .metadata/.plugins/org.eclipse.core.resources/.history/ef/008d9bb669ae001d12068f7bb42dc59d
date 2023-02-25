@@ -1,0 +1,23 @@
+package in.coreJava.Methods;
+
+public class MethodTask1 {
+
+	
+	int maxElement(int[] a)
+	{
+		
+		//logic
+		return 0;
+		
+		
+	}
+	
+	
+	int findLength (String name)
+	{
+		//logic
+		return 0;
+		
+	}
+	
+}

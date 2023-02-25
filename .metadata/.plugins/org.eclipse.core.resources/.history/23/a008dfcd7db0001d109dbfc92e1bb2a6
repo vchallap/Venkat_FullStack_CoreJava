@@ -1,0 +1,17 @@
+package in.coreJava.Methods;
+
+public class Driver7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	}
+
+	void getPersonData(DoublePersons dp)
+	{
+		
+	}
+	
+	
+}

@@ -1,0 +1,20 @@
+package in.coreJava.Constructors;
+
+public class Employee {
+	//instance variables
+	int empId;
+	String empName;
+	
+	public Employee(int empId,String empName)//local variables
+	{
+		empId=empId;
+		empName=empName;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Employee emp=new Employee(101,"venkatesh");
+	}
+
+}

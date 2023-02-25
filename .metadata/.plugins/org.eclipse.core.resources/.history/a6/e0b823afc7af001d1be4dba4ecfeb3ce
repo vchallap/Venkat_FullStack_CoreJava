@@ -1,0 +1,17 @@
+package in.coreJava.Methods;
+
+public class Driver4 {
+
+	void printDoctorData(Doctor dc)
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Driver4 d4=new Driver4();
+		
+		
+	}
+
+}

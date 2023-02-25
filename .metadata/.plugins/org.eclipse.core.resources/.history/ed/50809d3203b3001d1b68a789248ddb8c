@@ -1,0 +1,12 @@
+package in.coreJava.Constructors;
+
+public class Employee1 {
+	
+	
+	int id;
+	String name;
+	
+	
+	
+
+}

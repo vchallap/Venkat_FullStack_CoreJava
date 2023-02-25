@@ -1,0 +1,17 @@
+package in.coreJava.Constructors;
+
+public class Employee {
+	
+	int empId;
+	String empName;
+	
+	public Employee(int empId,String empName) {
+		System.out.println(empId+" "+ empName);
+	}
+	
+	public static void main(String[] args) {
+		
+		Employee emp=new Employee();
+	}
+
+}

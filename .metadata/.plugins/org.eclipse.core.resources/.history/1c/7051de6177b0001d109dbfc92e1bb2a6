@@ -1,0 +1,21 @@
+package in.coreJava.Methods;
+
+public class Driver5 {
+
+	
+	public static void main(String[] args) {
+		
+		Driver5 d5=new Driver5();
+		
+		d5.personData(p);
+		
+	}
+	
+	Person personData(Person p)
+	{
+		return p;
+		
+	}
+	
+	
+}

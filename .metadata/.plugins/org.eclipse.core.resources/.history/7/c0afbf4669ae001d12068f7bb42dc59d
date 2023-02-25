@@ -1,0 +1,22 @@
+package in.coreJava.Methods;
+
+public class MethodTask1 {
+
+	
+	int maxElement(int[] a)
+	{
+		
+		//logic
+		return 0;
+		
+		
+	}
+	
+	
+	String lenName(String name)
+	{
+		return name;
+		
+	}
+	
+}

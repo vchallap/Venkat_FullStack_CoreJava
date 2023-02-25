@@ -1,0 +1,36 @@
+package in.coreJava.Methods;
+
+import java.util.Scanner;
+
+public class University {
+	int universityId;
+	String universityName;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner sc = new Scanner(System.in);
+		int id = sc.nextInt();
+		
+		getUniversityData(id);
+		
+	
+
+	}
+
+	University getUniversityData(int universityId) {
+
+		University u = new University();
+		if (universityId == 101) {
+			u.universityId = 101;
+			u.universityName = "Oxford";
+		} else if (universityId == 102) {
+			u.universityId = 102;
+			u.universityName = "Standford";
+		}
+
+		return u;
+
+	}
+
+}

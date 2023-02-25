@@ -1,0 +1,15 @@
+package in.coreJava.Methods;
+
+public class MethodTask1 {
+
+	
+	int maxElement()
+	{
+		return "The max element is ";
+		
+		
+	}
+	
+	
+	
+}

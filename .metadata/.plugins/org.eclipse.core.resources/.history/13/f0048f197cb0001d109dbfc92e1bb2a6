@@ -1,0 +1,15 @@
+package in.coreJava.Methods;
+
+public class Driver6 {
+
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	College getCollegeData()
+	{
+		College c= new College();
+		
+	}
+}

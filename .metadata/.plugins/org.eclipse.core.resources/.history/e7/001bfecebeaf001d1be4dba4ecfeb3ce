@@ -1,0 +1,29 @@
+package in.coreJava.Methods;
+
+public class Driver1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Student1 s1=new Student1();
+		s1.id=101;
+		s1.name="Venkatesh";
+		Studnet1(101,"Venkatesh");
+		
+	}
+	
+
+}
+
+class Student1
+{
+	int id;
+	String name;
+	
+	
+	void print(Student1 id,Student1 name)
+	{
+		System.out.println();
+	}
+
+}

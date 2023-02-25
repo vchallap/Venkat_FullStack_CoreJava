@@ -1,0 +1,27 @@
+package in.coreJava.Methods;
+
+import java.util.Scanner;
+
+public class Driver8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner sc=new Scanner(System.in);
+		
+		System.out.println("Enter your number");
+		int id = sc.nextInt();
+		
+		
+	}
+	
+	Player getplayerData(int id)
+	{
+		
+		
+		
+		return null;
+		
+	}
+
+}

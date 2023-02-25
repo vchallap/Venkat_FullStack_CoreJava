@@ -1,0 +1,26 @@
+package in.coreJava.Methods;
+
+public class Driver7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Driver7 d7=new Driver7();
+		DoublePersons dp1=new DoublePersons();
+		dp1.personId=101;
+		DoublePersons dp2=new DoublePersons();
+		d7.getPersonData(dp);
+		
+		
+	}
+
+	void getPersonData(DoublePersons dp)
+	{
+		
+	}
+	
+	DoublePersons getPersonalData()
+	{
+		return null;
+		
+	}
+}

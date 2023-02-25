@@ -1,0 +1,16 @@
+package in.coreJava.Constructors;
+
+public class Student1 {
+	
+	int studentId;
+	String studentName;
+	int studentAge;
+	String studentGender;
+	
+	public Student1(int studentId,String studentName,int studentAge,String studentGender) {
+		
+	}
+	
+	
+
+}

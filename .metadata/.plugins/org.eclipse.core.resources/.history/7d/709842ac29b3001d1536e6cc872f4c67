@@ -1,0 +1,17 @@
+package in.coreJava.AccessSpecifiers;
+
+public class Student {
+
+	public Student() {
+		System.out.println("Student Constructor");
+	}
+
+	public void m1() {
+		System.out.println("I'm in Student m1 method");
+	}
+
+	private void m2()
+	{
+		System.out.println("I'm in Student m2 method");
+	}
+}
