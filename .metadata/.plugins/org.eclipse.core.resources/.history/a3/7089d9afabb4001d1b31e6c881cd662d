@@ -1,0 +1,19 @@
+package in.core.java.Inheritence;
+
+public class Student extends User {
+
+	 int rank;
+
+	public static void main(String[] args) {
+		Student s = new Student();
+		s.id=101;
+		s.name="Venkat";
+		s.rank=1;
+		s.m1();
+		System.out.println(s.id+" "+ s.name+" "+s.rank);
+	}
+	
+
+	
+
+}

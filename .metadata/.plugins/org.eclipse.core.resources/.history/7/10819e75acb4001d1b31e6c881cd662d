@@ -1,0 +1,15 @@
+package in.core.java.Inheritence;
+
+public class Employee extends User {
+	
+	public static void main(String[] args) {
+		Employee emp=new Employee();
+		emp.id=1001;
+		emp.name="Veneela";
+	}
+
+	void m2()
+	{
+		System.out.println("employee method called");
+	}
+}

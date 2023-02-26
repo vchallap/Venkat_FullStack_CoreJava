@@ -1,0 +1,13 @@
+package in.core.java.Inheritence;
+
+public class Employee {
+	
+	public static void main(String[] args) {
+		
+	}
+
+	void m2()
+	{
+		System.out.println("employee method called");
+	}
+}

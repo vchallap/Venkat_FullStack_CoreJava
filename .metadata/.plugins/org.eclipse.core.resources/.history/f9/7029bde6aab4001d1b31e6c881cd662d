@@ -1,0 +1,13 @@
+package in.core.java.Inheritence;
+
+public class User {
+	
+	private int id=101;
+	private String name="Venkat";
+	
+	public void m1() {
+		// TODO Auto-generated method stub
+		System.out.println("I'm in m1 method of user class");
+	}
+
+}

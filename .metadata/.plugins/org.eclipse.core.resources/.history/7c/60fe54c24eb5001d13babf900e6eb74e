@@ -1,0 +1,17 @@
+package in.core.java.Inheritence;
+
+public class User {
+	
+	 int id;
+	 String name;
+	 
+	 public User() {
+		System.out.println("Parent class:  constructor called");
+	}
+	
+	public void m1() {
+		// TODO Auto-generated method stub
+		System.out.println("Parent class: Method called");
+	}
+
+}

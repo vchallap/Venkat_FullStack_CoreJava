@@ -1,0 +1,9 @@
+package in.core.java.Inheritence;
+
+public class Student extends User{
+	
+	private int rank;
+	
+	
+	
+}
